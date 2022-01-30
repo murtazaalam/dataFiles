@@ -1,0 +1,37 @@
+[
+    {
+      "_id": "61be01b506b87ff1b3d74eee",
+      "icon": "fas fa-mobile",
+      "category_name": "App Development"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74eef",
+      "icon": "fas fa-ad",
+      "category_name": "Digital Marketing"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74ef3",
+      "icon": "fas fa-atom",
+      "category_name": "Data Science"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74ef2",
+      "icon": "fas fa-ethernet",
+      "category_name": "Hardware Training"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74eed",
+      "icon": "fas fa-briefcase",
+      "category_name": "Business"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74ef0",
+      "icon": "fas fa-file-code",
+      "category_name": "Website Development"
+    },
+    {
+      "_id": "61be01b506b87ff1b3d74ef1",
+      "icon": "fas fa-code",
+      "category_name": "Programmming Language"
+    }
+  ]
